@@ -1,0 +1,7 @@
+Alright, let's imagine we're talking about toy cars instead of computer stuff. Imagine you have two toy cars that look exactly the same. One car is in your bedroom, and the other is in your friend's bedroom. Even though they're the same toy, they are in different places.
+
+Now, let's talk about computers. In computer land, there are different places where the computer keeps its toys, like the toy cars. One of these places is called "bin," and the other is called "usr/bin."
+
+So, "bin/python3" and "usr/bin/python3" are like the two toy cars in different bedrooms. They are both the same computer program, but they're in different places inside the computer. Just like how your toy cars are the same, but one is in your room and the other is in your friend's room.
+
+When you want to use the "python3" toy car, you need to know where it is. If you want to play with the one in your room, you'd say "bin/python3," and if you want to play with the one in your friend's room, you'd say "usr/bin/python3." They're both the same toy car, just in different spots.

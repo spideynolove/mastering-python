@@ -1,0 +1,47 @@
+Dollar-cost averaging (DCA) is an investment strategy where you invest a fixed amount of money at regular intervals, regardless of the asset's price. This approach aims to reduce the impact of market volatility on your investment and potentially lower the average cost per unit over time. It's often used with assets like stocks or cryptocurrencies.
+
+### Dollar Cost Averaging with Crypto: A Child-Friendly Strategy
+
+Imagine you have $100 to invest in Bitcoin every month. Here's how dollar-cost averaging would work:
+
+#### Steps:
+1. **Setting up the Strategy**: Decide to invest $100 in Bitcoin every month, no matter the price.
+
+2. **Month 1**: Bitcoin is $10,000 per coin.
+   - With your $100, you buy 0.01 Bitcoin ($100 ÷ $10,000).
+   - You now own 0.01 Bitcoin.
+
+3. **Month 2**: Bitcoin price dropped to $8,000.
+   - With your $100, you buy 0.0125 Bitcoin ($100 ÷ $8,000).
+   - You now own a total of 0.0225 Bitcoin (0.01 + 0.0125).
+
+4. **Month 3**: Bitcoin price increased to $12,000.
+   - With your $100, you buy 0.0083 Bitcoin ($100 ÷ $12,000).
+   - You now own a total of 0.0308 Bitcoin (0.0225 + 0.0083).
+
+#### Explanation for a Child:
+- **Imagine Buying Toys**: You want to buy a toy every month, no matter its price.
+  
+- **Toy Prices Change**:
+  - January: Toy costs $10.
+  - February: Toy costs $8.
+  - March: Toy costs $12.
+
+- **With DCA**:
+  - January: You buy 10 toy parts for $10 (1 toy part each).
+  - February: You buy 12.5 toy parts for $10 (1.25 toy parts each).
+  - March: You buy 8.3 toy parts for $10 (0.83 toy parts each).
+
+- **Total Toy Parts Owned**:
+  - January: 10 toy parts.
+  - February: 22.5 toy parts (10 + 12.5).
+  - March: 30.8 toy parts (22.5 + 8.3).
+
+#### Why This Strategy?
+- **Buying Low and High**: You buy more toys when they're cheaper ($8) and fewer when they're pricier ($12).
+  
+- **Average Cost**: Even though toy prices changed, the average price per toy part is less than $10. This means you got a good deal overall.
+
+- **Less Stress**: You don't worry too much about if the toy price goes up or down. You just buy your $10 worth each month.
+
+This simple analogy explains dollar-cost averaging with crypto (or any investment) in a way that even a child can understand. The key is consistency: buying a fixed amount regularly to even out the highs and lows in the market.

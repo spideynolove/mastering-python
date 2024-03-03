@@ -1,0 +1,27 @@
+Sure! Let's explain the concept of equal weight portfolios and when rebalancing is done in simple terms.
+
+### Equal Weight Portfolios
+
+Imagine you have a bunch of different toys, each with its own value. You want to make a fair playground where all toys are equally important. This is like creating an equal weight portfolio.
+
+- **Equal Weight**: In an equal weight portfolio, you give each toy the same importance. If you have 5 toys, each one gets 20% of the playground.
+
+- **Example**: Let's say you have toys A, B, C, D, and E. In an equal weight portfolio, if you have $100 to invest, you put $20 on each toy.
+
+- **Rebalancing**: As time goes on, some toys might become more popular or valuable (grow in price), while others might become less popular. Rebalancing means adjusting the playground to keep the toys at their equal 20% shares.
+
+### Rebalancing the Portfolio
+
+- **When to Rebalance**: Rebalancing is done at specific times, like every month, every quarter (every 3 months), or every year. It depends on the plan you set up.
+
+- **Example**: If toy A becomes very popular and now takes up 30% of the playground, you rebalance by selling some of toy A to bring it back to 20%. Then you use that money to buy more of the other toys to make them all equal again.
+
+- **Advantages**:
+
+  1. **Diversification**: By investing equally in different toys (assets), you spread the risk. If one toy does poorly, it won't ruin the whole playground.
+  
+  2. **Simplicity**: It's easy to understand and manage. You just need to make sure each toy gets its fair share.
+
+  3. **Automatic Buy Low, Sell High**: When you rebalance, you're automatically selling the toys that have become more popular (higher price) and buying the ones that are less popular (lower price). This is like selling the toys that are now expensive and buying the ones that are on sale!
+
+So, in simple terms, an equal weight portfolio is like making a playground where all toys are equally important. Rebalancing is like adjusting the playground regularly to keep the toys' shares equal. This method helps spread risk, is easy to manage, and can automatically buy low and sell high!
