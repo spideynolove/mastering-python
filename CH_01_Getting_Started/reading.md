@@ -18,6 +18,7 @@
       - [Non-Pythonic:](#non-pythonic-4)
       - [Pythonic:](#pythonic-5)
 - [virtual Python environment](#virtual-python-environment)
+  - [Several ways to create virtual Python environments:](#several-ways-to-create-virtual-python-environments)
 - [Docker](#docker)
 - [FAQ?](#faq)
     - [1. Using `pip freeze` and `requirements.txt`:](#1-using-pip-freeze-and-requirementstxt)
@@ -33,7 +34,7 @@
 
 - **Pythonic** code refers to writing code in a way that adheres to the **principles and conventions** of the Python programming language. 
 - It emphasizes **readability, simplicity, and elegance**, making the code more intuitive for **both developers and readers**. 
-- Pythonic code is not just about achieving functional correctness; it's also about writing code in a style that aligns with the Python community's best practices and idiomatic patterns.
+- Pythonic code is not just about achieving functional correctness; it's also about writing code in a **style** that aligns with the Python community's best practices and idiomatic patterns.
 
 1. **Readability Counts:** Python places a strong emphasis on code readability. Pythonic code should be easy to understand at a glance, using meaningful variable names, proper indentation, and clear structure.
 
@@ -58,8 +59,6 @@
 11. **Default Argument Values:** Pythonic code uses immutable objects (e.g., `None`) as default argument values to prevent unexpected behavior caused by mutable default values.
 
 12. **Documentation and Comments:** Pythonic code includes clear and concise documentation strings (docstrings) and comments where necessary to explain code functionality and intent.
-
-- 5 examples:
 
 ### 1. List Comprehensions
 
@@ -150,7 +149,7 @@ age = person.get('age', 0)
 
 5. **Portability:** Virtual environments can be easily shared with others, making it straightforward to collaborate on projects with consistent dependencies.
 
-- Several ways to create virtual Python environments:
+## Several ways to create virtual Python environments:
 
 1. **venv (Python 3.3 and later):** Python's built-in module `venv` is a popular way to create virtual environments. It's simple to use and comes with Python standard library.
 
@@ -274,7 +273,6 @@ age = person.get('age', 0)
 - **Answer**: Capture the dependencies and their versions so that others can recreate the same environment. 
 
 ### 1. Using `pip freeze` and `requirements.txt`:
-This method involves creating a `requirements.txt` file that lists all the packages installed in your virtual environment.
 
 #### Step 1: Activate your virtual environment:
 ```bash
@@ -311,5 +309,3 @@ Share both the `Pipfile` and `Pipfile.lock` files with others. They can then rec
 ```bash
 pipenv install
 ```
-
-This command will create a new virtual environment and install all the packages specified in `Pipfile.lock`.
